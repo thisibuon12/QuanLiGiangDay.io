@@ -1,0 +1,11 @@
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\bin\Debug\PhanMemQuanLiGiangDay.exe.config
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\bin\Debug\PhanMemQuanLiGiangDay.exe
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\bin\Debug\PhanMemQuanLiGiangDay.pdb
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.csproj.AssemblyReference.cache
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.Flogin.resources
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.Properties.Resources.resources
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.csproj.GenerateResource.cache
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.csproj.CoreCompileInputs.cache
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.exe
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.pdb
+E:\DaCoSo2-PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\PhanMemQuanLiGiangDay\obj\Debug\PhanMemQuanLiGiangDay.Main.resources
